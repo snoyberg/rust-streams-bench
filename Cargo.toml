@@ -1,0 +1,6 @@
+[package]
+name = "stream"
+version = "0.1.0"
+authors = ["Michael Snoyman <michael@snoyman.com>"]
+
+[dependencies]
